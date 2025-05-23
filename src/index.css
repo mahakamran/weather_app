@@ -1,0 +1,23 @@
+
+@import "tailwindcss";
+
+
+
+#box {
+  width: 160px;
+  height: 290px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.315);
+  backdrop-filter: blur(1000px);
+}
+
+#box1 {
+  width: 160px;
+  height: 290px;
+  margin-left: 250px;
+  margin-top: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.425);
+  backdrop-filter: blur(1000px);
+}
